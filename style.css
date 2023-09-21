@@ -8,7 +8,7 @@ header{
 }
 .clogo{
     height: 10px;
-    width: 1000px;
+    width: 2000px;
     margin: auto;
 }
 nav{
@@ -19,7 +19,7 @@ nav{
 	display: inline-block;
 	position:absolute;
 	top:30px;
-	left:750px;
+	left:1750px;
 	text-decoration: none;
 	word-spacing:30px;
 	font-size:20px;
@@ -28,7 +28,7 @@ nav{
 #tr{
     position:absolute;
     top:30px;
-    left:800px;	
+    left:1000px;	
     font-style: sans-serif;
     font-size:40px;   
 }
